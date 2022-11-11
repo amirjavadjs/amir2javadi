@@ -33,3 +33,9 @@ font-weight: bold;
     padding: 5px 8px;
     margin-left: 5px;
 }
+
+@media (max-width: 800px) {
+.number-nav1 {
+    display: none;
+}
+}
